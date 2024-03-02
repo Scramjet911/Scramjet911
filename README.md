@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently working on an expense tracking app and learning flutter along the way
+I am currently working as a software developer and learning flutter along the way
 <!--
 **Scramjet911/Scramjet911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
